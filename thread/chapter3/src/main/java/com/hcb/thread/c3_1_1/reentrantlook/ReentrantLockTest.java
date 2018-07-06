@@ -27,6 +27,13 @@ public class ReentrantLockTest {
         });
 
 
+
+
+
+
+
+
+
         final Thread t2 = new Thread(new Runnable() {
             public void run() {
                 synchronized (obj){
