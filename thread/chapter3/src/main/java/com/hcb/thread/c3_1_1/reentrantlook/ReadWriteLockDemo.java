@@ -88,6 +88,4 @@ public class ReadWriteLockDemo {
         System.out.println("app use :" + (end - startTime)/1000);
 
     }
-
-
 }
