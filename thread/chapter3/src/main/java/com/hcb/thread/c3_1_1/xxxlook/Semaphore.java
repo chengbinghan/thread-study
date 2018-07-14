@@ -1,4 +1,4 @@
-package com.hcb.thread.c3_1_1.reentrantlook;
+package com.hcb.thread.c3_1_1.xxxlook;
 
 /**
  * @author ChengBing Han
